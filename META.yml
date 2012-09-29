@@ -23,4 +23,4 @@ requires:
   Test::Exception: 0.31
   Test::More: 0.98
   Test::Warn: 0.24
-version: 0.02
+version: 0.03
